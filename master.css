@@ -66,6 +66,10 @@ a{
   text-decoration: none;
 }
 
+.contact{
+  align-items: center;
+}
+
 .contact a{
   text-align: center;
 }
